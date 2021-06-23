@@ -1,4 +1,4 @@
-# EfficientUNetPlusPlus
+# EfficientUNet++
 
 [![Paper](http://img.shields.io/badge/Paper-arXiv.2106.11447-B3181B?logo=arXiv)](https://arxiv.org/abs/2106.11447)
 
