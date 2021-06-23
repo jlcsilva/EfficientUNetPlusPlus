@@ -1,6 +1,6 @@
 # EfficientUNet++
 
-[![Paper](http://img.shields.io/badge/Paper-arXiv.2106.11447-B3181B?logo=arXiv)](https://arxiv.org/abs/2106.11447)
+[![Paper](http://img.shields.io/badge/Paper-arXiv.2106.11447-B3181B?logo=arXiv)](https://arxiv.org/abs/2106.11447) [![Generic badge](https://img.shields.io/badge/License-MIT-<COLOR>.svg)](https://shields.io/)
 
    - June23/2021: Initial code release for [EfficientUNet++](https://arxiv.org/abs/2106.11447)
 
@@ -85,3 +85,7 @@ If you find our work useful and use it or draw inspiration from it in your resea
       primaryClass={eess.IV}
 }
 ```
+
+## 6. License 🛡️
+
+Distributed under [MIT License](https://github.com/jlcsilva/EfficientUNetPlusPlus/blob/main/LICENSE)
