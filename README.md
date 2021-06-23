@@ -15,15 +15,23 @@ In our coronary artery segmentation task, using [EfficientNet](https://arxiv.org
 
 Comparison of the EfficientUNet++ and UNet++ building blocks:
 
+<div align="center">
 <img src="./doc_images/block_comparison.png" width="100%" />
-
+</div>
+   
 Performance of different decoder architectures as a function of the number of FLOPS and the number of parameters, when using the EfficientNet B0 to B7 models as encoders:
 
+<div align="center">
 <img src="./doc_images/decoder_comparison.png" width="100%" />
-
+</div>
+   
 To help practicioners choose the most adequate model for their clinical needs and available hardware, the Pareto Frontier of the tested models was drawn, with the number of FLOPS as a function of model performance.
 
+<div align="center">
+
 <img src="./doc_images/flops_pareto.png" width="50%" />
+   
+</div>
 
 ## 2. Using the EfficientUNet++ independently
 
