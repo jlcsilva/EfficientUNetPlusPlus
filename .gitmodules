@@ -1,0 +1,3 @@
+[submodule "segmentation_models_pytorch"]
+	path = segmentation_models_pytorch
+	url = https://github.com/jlcsilva/segmentation_models.pytorch.git
