@@ -70,3 +70,18 @@ To perform inference, run the following command:
 ```
 
 where the dataset can be either Coronary or DRIVE.
+
+## 5. Citing 📝
+
+If you find our work useful and use it or draw inspiration from it in your research, please consider citing it.
+
+```
+@misc{silva2021encoderdecoder,
+      title={Encoder-Decoder Architectures for Clinically Relevant Coronary Artery Segmentation}, 
+      author={João Lourenço Silva and Miguel Nobre Menezes and Tiago Rodrigues and Beatriz Silva and Fausto J. Pinto and Arlindo L. Oliveira},
+      year={2021},
+      eprint={2106.11447},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+```
