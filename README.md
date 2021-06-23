@@ -23,7 +23,7 @@ Performance of different decoder architectures as a function of the number of FL
 
 To help practicioners choose the most adequate model for their clinical needs and available hardware, the Pareto Frontier of the tested models was drawn, with the number of FLOPS as a function of model performance.
 
-<img src="./doc_images/flops_pareto.png" width="100%" />
+<img src="./doc_images/flops_pareto.png" width="50%" />
 
 ## 2. Using the EfficientUNet++ independently
 
