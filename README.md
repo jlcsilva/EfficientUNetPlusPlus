@@ -1,6 +1,6 @@
 # EfficientUNetPlusPlus
 
-[Paper![Paper](http://img.shields.io/badge/Paper-arXiv.2104.00298-B3181B?logo=arXiv)](https://arxiv.org/abs/2106.11447)
+[![Paper](http://img.shields.io/badge/Paper-arXiv.2106.11447-B3181B?logo=arXiv)](https://arxiv.org/abs/2106.11447)
 
    - June23/2021: Initial code release for [EfficientUNet++](https://arxiv.org/abs/2106.11447)
 
