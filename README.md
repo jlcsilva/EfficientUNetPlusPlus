@@ -2,7 +2,7 @@
 
 [![Paper](http://img.shields.io/badge/Paper-arXiv.2106.11447-B3181B?logo=arXiv)](https://arxiv.org/abs/2106.11447) [![Generic badge](https://img.shields.io/badge/License-MIT-<COLOR>.svg)](https://shields.io/)
 
-   - June23/2021: Initial PyTorch code release for [EfficientUNet++](https://arxiv.org/abs/2106.11447)
+   - June 23/2021: Initial PyTorch code release for [EfficientUNet++](https://arxiv.org/abs/2106.11447)
 
 ## 1. About the EfficientUNet++ decoder architecture
 
