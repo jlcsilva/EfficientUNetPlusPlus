@@ -33,11 +33,15 @@ To help practicioners choose the most adequate model for their clinical needs an
    
 </div>
 
-## 2. Using the EfficientUNet++ independently
+## 2. Installing the repository
+
+When installing the repository, do not forget to update the submodule, by running the `git submodule update --init --recursive` command.
+
+## 3. Using the EfficientUNet++ independently
 
 The EfficientUNet++ was implemented as an extension of the Segmentation Models Pytorch repository, by [Pavel Yakubovskiy](https://github.com/qubvel). Currently, it is a pending pull request. For detailed information on library installation and model usage, visit the [Read The Docs Project Page](https://segmentation-models-pytorch.readthedocs.io/en/latest/) or the [repository's README](https://github.com/jlcsilva/segmentation_models.pytorch/blob/master/README.md). 
 
-## 3. Training the EfficientUNet++
+## 4. Training the EfficientUNet++
 
 It was not possible to obtain the necessary clearances to release the full coronary artery segmentation dataset. Therefore, to enable other researchers and programmers to test our architecture, we provide a toy dataset with 6 coronary angiography images, and built a loader for the the retinal vessel segmentation [DRIVE](https://drive.grand-challenge.org/) dataset. We still haven't had the time to test the EfficientUNet++ in the retinal vessel segmentation task, but we expect it to perform well when coupled with the right encoder.
 
@@ -61,7 +65,7 @@ For more details on program arguments, run:
 
 To consult the available encoder architectures, visit the [Read The Docs Project Page](https://segmentation-models-pytorch.readthedocs.io/en/latest/). 
 
-## 4. Inference
+## 5. Inference
 
 To perform inference, run the following command:
 
@@ -71,7 +75,7 @@ To perform inference, run the following command:
 
 where the dataset can be either Coronary or DRIVE.
 
-## 5. Citing 📝
+## 6. Citing 📝
 
 If you find our work useful and use it or draw inspiration from it in your research, please consider citing it.
 
